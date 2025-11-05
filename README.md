@@ -8,7 +8,13 @@ Hi there 👋
 - 📫 How to reach me: **kanishranjan1@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love creating futuristic and animated websites ✨
-  
+
+-## 💫 About Me  
+
+👋 Hi there! I'm **Kanish Ranjan**, a passionate **Web Developer** who loves creating interactive and visually stunning websites.  
+💻 I enjoy combining **creative design** with **clean code** to bring ideas to life on the web. 
+🚀 Always exploring new technologies and pushing my limits in front-end and full-stack development.  
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/kanish-ranjan-2102ab318) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanishranjan1@gmail.com) 
 
